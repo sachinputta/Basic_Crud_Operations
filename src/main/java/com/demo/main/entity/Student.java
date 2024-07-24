@@ -22,6 +22,9 @@ public class Student {
 	private String address;
 	private int marks;
 	private String sachin;
+<<<<<<< HEAD
 	private long mobileno;
+=======
+>>>>>>> 45fe8747f99e56bd312662ed77571039952fb7d1
 
 }
