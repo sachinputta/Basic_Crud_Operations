@@ -21,5 +21,6 @@ public class Student {
 	private String sname;
 	private String address;
 	private int marks;
+	private String mobileno;
 	
 }
