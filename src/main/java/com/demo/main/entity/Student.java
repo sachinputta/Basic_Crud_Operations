@@ -23,5 +23,4 @@ public class Student {
 	private int marks;
 	private long mobileno;
 
-
 }
