@@ -23,5 +23,6 @@ public class Student {
 	private int marks;
 	private String sachin;
 	private long mobileno;
+
 	
 }
