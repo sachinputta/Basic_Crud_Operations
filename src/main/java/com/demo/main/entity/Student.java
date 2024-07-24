@@ -21,5 +21,7 @@ public class Student {
 	private String sname;
 	private String address;
 	private int marks;
+	private String sachin;
+	private long mobileno;
 
 }
